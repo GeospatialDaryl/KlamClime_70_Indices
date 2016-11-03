@@ -1,3 +1,10 @@
+# ESRI cruft  
+*.mxd
+
+tblIndex4.txt
+tblIndex5.txt
+tblIndex6.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
